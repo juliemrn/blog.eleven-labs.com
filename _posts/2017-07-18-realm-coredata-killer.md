@@ -58,16 +58,10 @@ target 'realmArtcile' do
 
   target 'realmArtcileTests' do
     inherit! :search_paths
-
-    pod 'RealmSwift'
-
   end
 
   target 'realmArtcileUITests' do
     inherit! :search_paths
-
-    pod 'RealmSwift'
-
   end
 
 end
