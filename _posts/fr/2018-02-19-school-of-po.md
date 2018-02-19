@@ -27,7 +27,7 @@ Résumé de ce qui s’est passé durant cette journée :
 
 ***The Learners Hypothesis*** 
 
-Pendant cette conférence, Alberto est revenu sur la notion d’apprentissage au travail, qui est trop souvent oubliée au quotidien. L’apprentissage n’est pas quelque chose de visible. 
+Pendant cette conférence, Alberto est revenu sur la notion d’apprentissage au travail, qui est trop souvent oubliée au quotidien. 
 
 > https://twitter.com/tpierrain/status/963336034753961984
 
@@ -35,7 +35,7 @@ Le job de Product Owner a été inventé afin d’avoir quelqu’un qui puisse r
 
 > https://twitter.com/tpierrain/status/963336371334205440
 
-L’ennui est l’ennemi suprême de l’apprentissage. Or, des spécifications de 200 pages, c’est de l’ennui, donc un frein à l’apprentissage. 
+L’ennui est l’ennemi suprême de l’apprentissage. Des spécifications de 200 pages, c’est de l’ennui, donc un frein à l’apprentissage. 
 
 > https://twitter.com/tpierrain/status/963335180923670528
 
@@ -55,7 +55,6 @@ L’apprentissage nécessite des erreurs et du feedback, afin de garder un proce
 Lamine Gueye nous a ensuite raconté son parcours. Il a participé aux Jeux Olympiques de 1984, 1992 et 1994 en tant que skieur alpin pour le Sénégal. Afin de participer aux JO, il a dû créer la Fédération Sénégalaise de ski et surtout se battre afin d’y arriver. Il nous a parlé des trois fondamentaux : 
 - Le coeur :  c’est l’envie de faire, le moteur. Lamine nous a parlé un cadre, il faut le créer le plus grand possible afin d’atteindre ses objectifs. 
 - La pièce : c’est le cadre, l’environnement. C’est la limite que l’on se met dans la tête. Est ce que je prends le chemin facile ou le chemin difficile ? Est-ce que je provoque la chute de la pièce du côté difficile ou du côté simple ? Là encore, la limite est dans notre tête. 
-Mark Twain : Ils l’ont fait car ils ignoraient que c’était impossible 
 
 > https://twitter.com/Tauron15/status/963411290453618689
 
